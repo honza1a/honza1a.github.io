@@ -1,5 +1,3 @@
-# jt-mocha-trys
-
 ## todo
 
     [https://github.com/mochajs/mocha/wiki/Using-Mocha-programmatically](https://github.com/mochajs/mocha/wiki/Using-Mocha-programmatically)
