@@ -1,13 +1,14 @@
 ## todo
 
-    [https://github.com/mochajs/mocha/wiki/Using-Mocha-programmatically](https://github.com/mochajs/mocha/wiki/Using-Mocha-programmatically)
+[https://github.com/mochajs/mocha/wiki/](https://github.com/mochajs/mocha/wiki/Using-Mocha-programmatically)
 
 ## commands
 
-    [npm](https://nodejs.dev/learn/uninstalling-npm-packages)
-        nic - minihelp
-        list - list modules installed locally
-          [-g] - installed globally
+[npm](https://nodejs.dev/learn/uninstalling-npm-packages)
+
+    nic - minihelp
+    list - list modules installed locally
+        [-g] - installed globally
 
 ## [markdown](https://guides.github.com/features/mastering-markdown/)
 
@@ -22,8 +23,10 @@
 
 ### todo (viz další řádka)
 
-    (proč ##heading musí být unikátní)[https://github.com/DavidAnson/markdownlint/blob/v0.23.1/doc/Rules.md#md024---multiple-headings-with-the-same-content]
+* [proč ##heading musí být unikátní](https://github.com/DavidAnson/markdownlint/blob/v0.23.1/doc/Rules.md#md024---multiple-headings-with-the-same-content)
 
 * proč nechdí \[npm](url) na př. u \## commands
+
+    protože před [byl tab
 
 [examples](https://honza1a.github.io/examples/examples.md)
