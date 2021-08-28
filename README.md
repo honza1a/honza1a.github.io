@@ -26,4 +26,4 @@
 
 * proč nechdí \[npm](url) na př. u \## commands
 
-[examples](examples/examples.md)
+[examples](https://honza1a.github.io/examples/examples.md)
