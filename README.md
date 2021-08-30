@@ -28,6 +28,9 @@
 * proč nechdí \[npm](url)
 
         protože před "[" byl tab
+    ana js, md
+    
+    udělat wiki
 
 [examples](https://honza1a.github.io/examples/examples.md)
 
