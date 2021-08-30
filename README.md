@@ -10,8 +10,7 @@
     list - list modules installed locally
         [-g] - installed globally
 
-## [markdown](https://guides.github.com/features/mastering-markdown/)
-
+## [markdown (.md)](https://guides.github.com/features/mastering-markdown/)
     dát *.md preview do jiného panelu než source *.md
         zobrazuje se pak hned jak to píšu
     \ před [ v [...](...) a p. se pak [ bere jako normální znak.
@@ -21,7 +20,7 @@
     url může být i relative path to file directory
         lmb otevře directory
 
-### todo (viz další řádka)
+## todo
 
 * [proč ##heading musí být unikátní](https://github.com/DavidAnson/markdownlint/blob/v0.23.1/doc/Rules.md#md024---multiple-headings-with-the-same-content)
 * proč nechdí \[npm](url)
@@ -30,6 +29,6 @@
     * projít i github.com
 * udělat wiki
 
-[examples](https://honza1a.github.io/examples/examples.md)
+## [examples](https://honza1a.github.io/examples/examples.md)
 
-a[wiki](https://github.com/honza1a/jt-test-fs/wiki)
+## [wiki](https://github.com/honza1a/jt-test-fs/wiki)
