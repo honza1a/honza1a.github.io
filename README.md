@@ -46,6 +46,13 @@ function fancyAlert(arg) {
 }
 ```
 
+```` 
+```
+Look! You can see my backticks.
+```
+````
+
+
 You can also simply indent your code by four spaces:
 without syntax highlighting:
 
