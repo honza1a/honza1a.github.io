@@ -24,14 +24,12 @@
 ### todo (viz další řádka)
 
 * [proč ##heading musí být unikátní](https://github.com/DavidAnson/markdownlint/blob/v0.23.1/doc/Rules.md#md024---multiple-headings-with-the-same-content)
-
 * proč nechdí \[npm](url)
-
-        protože před "[" byl tab
-    ana js, md
-    
-    udělat wiki
+    * protože před "[" byl tab
+* ana js, md
+    * projít i github.com
+* udělat wiki
 
 [examples](https://honza1a.github.io/examples/examples.md)
 
-[wiki](https://github.com/honza1a/jt-test-fs/wiki)
+a[wiki](https://github.com/honza1a/jt-test-fs/wiki)
