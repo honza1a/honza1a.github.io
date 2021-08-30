@@ -2,6 +2,8 @@
 
 [https://github.com/mochajs/mocha/wiki/](https://github.com/mochajs/mocha/wiki/Using-Mocha-programmatically)
 
+[jt-test-fs](https://github.com/honza1a/jt-test-fs)
+
 ## commands
 
 [npm](https://nodejs.dev/learn/uninstalling-npm-packages)
@@ -32,3 +34,10 @@
 ## [examples](https://honza1a.github.io/examples/examples.md)
 
 ## [wiki](https://github.com/honza1a/jt-test-fs/wiki)
+
+## read
+[Using Mocha programmatically](https://github.com/mochajs/mocha/wiki/Using-Mocha-programmatically)
+
+[mocha runner](https://github.com/mochajs/mocha/blob/8cae7a34f0b6eafeb16567beb8852b827cc5956b/lib/runner.js#L47-L57)
+
+[TC39 ECMAScript](https://www.ecma-international.org/technical-committees/tc39/)
