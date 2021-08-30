@@ -30,3 +30,5 @@
         protože před "[" byl tab
 
 [examples](https://honza1a.github.io/examples/examples.md)
+
+[wiki](https://github.com/honza1a/jt-test-fs/wiki)
